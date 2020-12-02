@@ -22,7 +22,8 @@ Mount BigSur as r/w Filesystem
     - now you can edit and change the file system
 
 # cons
-    - you can replace disk*s* with your mount point, for example type on terminal and type "mount" you can see example /dev/disk1s5 <-- this mount point
+    - you can replace disk*s* with your mount point, for example type on terminal and type "mount" 
+      you can see example /dev/disk1s5 <-- this mount point
     - dont disable authenticated-root
     - you can change name of rootbs folder if you want
     - ntfs-3g is optional, you can use tuxera to mount ntfs filesystem
