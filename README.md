@@ -7,7 +7,7 @@ Mount BigSur as r/w Filesystem
     - and then type "csrutil authenticated-root disable"
     - reboot
     
-# 2. create directory to your use home
+# 2. create directory to your user home
     - open terminal type " mkdir ~/rootbs "
     - install ntfs-3g with brew
     - type "sudo mount -o nobrowse -t apfs /dev/disk*s* ~/rootbs"
